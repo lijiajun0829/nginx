@@ -1,1 +1,1 @@
-FROM nginx:nginx:stable-perl
+FROM nginx:1.18.0-alpine-perl
